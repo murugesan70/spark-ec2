@@ -1033,7 +1033,7 @@ def get_num_disks(instance_type):
         "c1.medium":   1,
         "c1.xlarge":   4,
         "c3.large":    2,
-        "c3.xlarge":   2,
+        "c3.xlarge":   1,
         "c3.2xlarge":  2,
         "c3.4xlarge":  2,
         "c3.8xlarge":  2,
